@@ -17,5 +17,5 @@ Requirements:
 
 # Contacts App
 
-![App Screenshot](Screenshot 2025-08-27 003356.png)
-![App Screenshot](Screenshot 2025-08-27 003356.png)
+![App Screenshot](./Screenshot 2025-08-27 003356.png)
+![App Screenshot](./Screenshot 2025-08-27 003356.png)
